@@ -13,6 +13,8 @@ namespace ExemploSemStrategy
 
             processador.ProcessarExame(exameSangue);
             processador.ProcessarExame(exameRaioX);
+
+            Console.ReadLine();
         }
     }
 }

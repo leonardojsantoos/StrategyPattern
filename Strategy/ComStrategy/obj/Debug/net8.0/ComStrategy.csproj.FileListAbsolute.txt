@@ -1,0 +1,15 @@
+/home/morph/StrategyPattern/Strategy/ComStrategy/bin/Debug/net8.0/ComStrategy
+/home/morph/StrategyPattern/Strategy/ComStrategy/bin/Debug/net8.0/ComStrategy.deps.json
+/home/morph/StrategyPattern/Strategy/ComStrategy/bin/Debug/net8.0/ComStrategy.runtimeconfig.json
+/home/morph/StrategyPattern/Strategy/ComStrategy/bin/Debug/net8.0/ComStrategy.dll
+/home/morph/StrategyPattern/Strategy/ComStrategy/bin/Debug/net8.0/ComStrategy.pdb
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.AssemblyInfoInputs.cache
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.AssemblyInfo.cs
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.csproj.CoreCompileInputs.cache
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.sourcelink.json
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.dll
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/refint/ComStrategy.dll
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.pdb
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ComStrategy.genruntimeconfig.cache
+/home/morph/StrategyPattern/Strategy/ComStrategy/obj/Debug/net8.0/ref/ComStrategy.dll

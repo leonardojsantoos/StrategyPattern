@@ -1,0 +1,15 @@
+/home/morph/StrategyPattern/Strategy/SemStrategy/bin/Debug/net8.0/SemStrategy
+/home/morph/StrategyPattern/Strategy/SemStrategy/bin/Debug/net8.0/SemStrategy.deps.json
+/home/morph/StrategyPattern/Strategy/SemStrategy/bin/Debug/net8.0/SemStrategy.runtimeconfig.json
+/home/morph/StrategyPattern/Strategy/SemStrategy/bin/Debug/net8.0/SemStrategy.dll
+/home/morph/StrategyPattern/Strategy/SemStrategy/bin/Debug/net8.0/SemStrategy.pdb
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.AssemblyInfoInputs.cache
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.AssemblyInfo.cs
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.csproj.CoreCompileInputs.cache
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.sourcelink.json
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.dll
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/refint/SemStrategy.dll
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.pdb
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/SemStrategy.genruntimeconfig.cache
+/home/morph/StrategyPattern/Strategy/SemStrategy/obj/Debug/net8.0/ref/SemStrategy.dll
